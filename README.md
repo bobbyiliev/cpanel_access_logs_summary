@@ -1,6 +1,7 @@
 # cpanel_access_logs_summary
 
 Short script that summarizes the access logs for every cPanel user separately
+
 This includes:
 - POST requests
 - GET requests
@@ -19,7 +20,7 @@ Usage:
 
 - Make it executable
 ```
-    chmod +x spike_check
+chmod +x spike_check
 ```
 - Run:
 ```
