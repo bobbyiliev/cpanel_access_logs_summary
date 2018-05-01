@@ -11,7 +11,7 @@ Note: You need root access to the server so that the script could grab all of th
 
 If you do not have root access you might want to take a look at this script here instead:
 
-[Blog Post](https://github.com/bobbyiliev/quick_access_logs_summary/)
+[Summarize a specific log](https://github.com/bobbyiliev/quick_access_logs_summary/)
 
 Usage:
 
