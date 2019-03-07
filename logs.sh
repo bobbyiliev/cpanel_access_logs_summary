@@ -20,7 +20,7 @@ red='\e[31m'
 executionTime=`date +%Y-%m-%d:%H:%M:%S`
 server=$(hostname)
 location=$(pwd)
-reportDomain='https://ckit.tech/datalog.php'
+geoipdomain="https://ckit.tech/ip.php"
 
 #########################
 ###  Color Functions  ###
